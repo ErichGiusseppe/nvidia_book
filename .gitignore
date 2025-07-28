@@ -208,3 +208,7 @@ __marimo__/
 
 # folders
 data/
+
+# other .
+.zip
+.txt
